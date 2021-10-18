@@ -1,4 +1,4 @@
-To get script go to files it is the second file titled steam-appmanifest.py
+script is titled steam-appmanifest.py
 
 
 Manual
