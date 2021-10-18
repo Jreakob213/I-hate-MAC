@@ -1,4 +1,4 @@
-
+To get script go to files it is the second file
 
 
 Manual
